@@ -50,7 +50,7 @@ I’m **Eman Fatima**, a **Frontend Developer** and **AWS Student Builder Group 
 # 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EmanFatima3668&show_icons=true&theme=radical&hide_border=true" />
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanFatima3668&theme=radical&hide_border=true" />
 </div>
 
